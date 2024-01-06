@@ -1,4 +1,4 @@
-# Subtracting from the Public Key
+# <h1 align="center"> Subtracting from the Public Key </a>
 
 
 ## Available commands
