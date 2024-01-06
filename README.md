@@ -38,7 +38,10 @@ Subtraction -p 03c060e1e3771cbeccb38e119c2414702f3f5181a89652538851d2e3886bdd70c
 02c4283f3d0993613a6a0418b488163868c4f597609fbdda89a0e33a2a076ea2f4<br/>
 02a5953ab4ad411b0a382a32dbc8765383572e8f493704fa64fe04d1ee64c1bed7<br/>
 
+In this example, we take public keys from the text file pub.txt, subtract what we specified and save the result in new_pub.txt
 
 Subtraction -i pub.txt -n 16 -s 68719476736 -o new_pub.txt
+
+I will add edits and new information as necessary.
 
 
