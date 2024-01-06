@@ -1,7 +1,7 @@
 ## Subtracting from the Public Key
 
 
-Available commands
+# Available commands
 
 -p We write our public key from which we will subtract. (For single subtraction)
 
